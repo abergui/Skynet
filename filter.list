@@ -12,6 +12,7 @@ https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
+https://iplists.firehol.org/files/firehol_webserver.netset
 https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
@@ -32,3 +33,19 @@ https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt
 https://lists.blocklist.de/lists/all.txt
 https://raw.githubusercontent.com/borestad/blocklist-ip/main/abuseipdb-s100-all.ipv4
+https://iplists.firehol.org/files/yoyo_adservers.ipset
+https://iplists.firehol.org/files/xforce_bccs.ipset
+https://iplists.firehol.org/files/vxvault.ipset
+https://iplists.firehol.org/files/uscert_hidden_cobra.ipset
+https://iplists.firehol.org/files/urandomusto_spam.ipset
+https://iplists.firehol.org/files/urandomusto_malware.ipset
+https://iplists.firehol.org/files/urandomusto_mailer.ipset
+https://iplists.firehol.org/files/urandomusto_http.ipset
+https://iplists.firehol.org/files/urandomusto_dns.ipset
+https://iplists.firehol.org/files/stopforumspam_toxic.netset
+https://iplists.firehol.org/files/stopforumspam_7d.ipset
+https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
+https://sslbl.abuse.ch/blacklist/sslipblacklist_aggressive.txt
+https://iplists.firehol.org/files/iblocklist_cruzit_web_attacks.netset
+https://iplists.firehol.org/files/cruzit_web_attacks.ipset
+https://iplists.firehol.org/files/cleantalk.ipset
