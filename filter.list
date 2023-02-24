@@ -1,7 +1,7 @@
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
-https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
-https://iplists.firehol.org/files/coinbl_hosts.ipset
+#https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+#https://iplists.firehol.org/files/coinbl_hosts.ipset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
 #https://iplists.firehol.org/files/firehol_level2.netset
