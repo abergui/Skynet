@@ -1,13 +1,13 @@
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
-https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
-https://iplists.firehol.org/files/coinbl_hosts.ipset
+#https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+#https://iplists.firehol.org/files/coinbl_hosts.ipset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 #https://iplists.firehol.org/files/firehol_webserver.netset
-https://iplists.firehol.org/files/firehol_webclient.netset
+#https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/cruzit_web_attacks.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
@@ -18,4 +18,4 @@ https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/6.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/7.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt
-https://github.com/abergui/abuseipdb-ipset/raw/main/abuseipdb-s100.ipset
+#https://github.com/abergui/abuseipdb-ipset/raw/main/abuseipdb-s100.ipset
