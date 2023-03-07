@@ -4,7 +4,7 @@ https://iplists.firehol.org/files/blocklist_net_ua.ipset
 #https://iplists.firehol.org/files/coinbl_hosts.ipset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
-https://iplists.firehol.org/files/firehol_level2.netset
+#https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 #https://iplists.firehol.org/files/firehol_webserver.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
