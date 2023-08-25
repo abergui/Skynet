@@ -1,4 +1,12 @@
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
+https://iplists.firehol.org/files/firehol_level4.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
+https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
+https://iplists.firehol.org/files/urlvir.ipset
+https://iplists.firehol.org/files/normshield_all_attack.ipset
+https://iplists.firehol.org/files/normshield_all_bruteforce.ipset
+https://iplists.firehol.org/files/alienvault_reputation.ipset 
+https://raw.githubusercontent.com/abergui/abuseipdb-ipset/main/abuseipdb-s100-3d.ipset
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
