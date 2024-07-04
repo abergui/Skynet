@@ -57,3 +57,7 @@ https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-e
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://www.talosintelligence.com/documents/ip-blacklist
 https://raw.githubusercontent.com/abergui/abuseipdb-ipset/main/abuseipdb-s100-30d.ipset
+
+July 04, 2024
+  - REMOVED:
+https://iplists.firehol.org/files/firehol_level4.netset (to much falsde positives)
