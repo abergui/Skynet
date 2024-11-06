@@ -4,6 +4,5 @@ https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/firehol_abusers_30d.netset
-https://iplists.firehol.org/files/alienvault_reputation.ipset 
 https://raw.githubusercontent.com/abergui/abuseipdb-ipset/main/abuseipdb-s100-3d.ipset
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
