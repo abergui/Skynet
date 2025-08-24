@@ -19,3 +19,12 @@
 ||analytics.tclclouds.com^
 ||tracking.cdn.tcl.com^
 ||tclclouds.com^
+! TCL Tv Services
+! https://github.com/hkamran80/blocklists/blob/main/smart-tv.txt
+||ai.tclking.com^
+||leiniao.com^
+||tcllauncher.com^
+||my7v.com^
+||huan.tv^
+! Consider if you are using Baidu services or not to blacklist it here.
+||www.baidu.com^
