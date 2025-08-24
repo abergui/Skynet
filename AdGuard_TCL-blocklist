@@ -1,3 +1,6 @@
+! Bloquer le suivi sur les Smart TV TCL (modèles 2025)
+! https://www.reddit.com/r/tcltvs/comments/1mcua3k/guide_to_stop_for_snooping_by_tcl_smart_tv_that/
+!  Bloquez les plages d'IP connues : 203.75.16.0/20
 ||tclota.tcl.com^
 ||globalapi.ad.xiaomi.com^
 ||tracking.tclclouds.com^
